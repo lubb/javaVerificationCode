@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="org.nmq.verificationcode:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="org.nmq.verificationcode.war">
+      <element id="artifact" artifact-name="org.nmq.verificationcode:war exploded" />
+    </root>
+  </artifact>
+</component>
